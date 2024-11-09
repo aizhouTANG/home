@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.tagfme.fun:2053/"
+    "link": "https://blog.tagfme.fun/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.tagfme.fun:2053/"
+    "link": "https://pan.tagfme.fun/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.tagfme.fun:2053/"
+    "link": "https://music.tagfme.fun/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.tagfme.fun:2053/"
+    "link": "https://nav.tagfme.fun/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.tagfme.fun:2053/"
+    "link": "https://web.tagfme.fun/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.tagfme.fun:2053/"
+    "link": "https://hot.tagfme.fun/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.tagfme.fun:2053/"
+    "link": "https://status.tagfme.fun/"
   }
 ]
